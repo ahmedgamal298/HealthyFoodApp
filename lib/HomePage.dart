@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
               IconButton(
                 icon: Icon(Icons.add_a_photo),
                 iconSize: 50.0,
-                color: Colors.white,
+                color: Colors.pinkAccent,
                 onPressed: (){
                   Navigator.push
                     (context,
