@@ -52,6 +52,7 @@ class _HomePageState extends State<HomePage> {
                 icon: Icon(Icons.local_car_wash),
                 iconSize: 50,
                 color: Colors.white,
+                tooltip: "Nice",
                 onPressed : _logoutUser,
               ),
               IconButton(
