@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1070358112225",
+    "firebase_url": "https://iosandroidapp-dc01f.firebaseio.com",
+    "project_id": "iosandroidapp-dc01f",
+    "storage_bucket": "iosandroidapp-dc01f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070358112225:android:54134d676364ee9b84d4a0",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070358112225-4mia86mvl86afdccrnldnjjficf7lu6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpRf5hj8yk0CA9VUJLGhIGIkSkSOxelEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070358112225-4mia86mvl86afdccrnldnjjficf7lu6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070358112225:android:7f432db429cc23d084d4a0",
+        "android_client_info": {
+          "package_name": "com.example.healthy_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070358112225-4mia86mvl86afdccrnldnjjficf7lu6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpRf5hj8yk0CA9VUJLGhIGIkSkSOxelEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070358112225-4mia86mvl86afdccrnldnjjficf7lu6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070358112225:android:bcb480fe8c64041a84d4a0",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070358112225-4mia86mvl86afdccrnldnjjficf7lu6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpRf5hj8yk0CA9VUJLGhIGIkSkSOxelEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070358112225-4mia86mvl86afdccrnldnjjficf7lu6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
