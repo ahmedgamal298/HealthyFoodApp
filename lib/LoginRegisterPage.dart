@@ -104,9 +104,11 @@ class _LoginRegisterPageState extends State<LoginRegisterPage> {
         height: 25.0,
       ),
       TextFormField(
-        decoration: const InputDecoration(
-          hintText: 'Enter your email',
+        keyboardType: TextInputType.emailAddress,
+        decoration: InputDecoration(
+          hintText: 'Enter your Email',
           contentPadding: EdgeInsets.fromLTRB(20.0, 10.0, 20.0, 10.0),
+          border: OutlineInputBorder(borderRadius: BorderRadius.circular(32.0)),
         ),
         validator: (value) {
           return value.isEmpty ? 'Email is required ' : null;
