@@ -12,7 +12,7 @@ class HealthyFood extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: " Healthy Food",
-      theme: new ThemeData(
+      theme: new ThemeData(disabledColor:Colors.white,
         primaryColor: Colors.pink,
       ),
       home: MappingPage(auth: Auth(),),
