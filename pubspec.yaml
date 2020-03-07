@@ -28,6 +28,11 @@ dependencies:
   firebase_auth:
   firebase_database:
   firebase_storage:
+  flutter_custom_clippers: ^1.1.0
+  intro_views_flutter: ^2.8.0
+  wave: ^0.0.8
+  font_awesome_flutter: ^8.5.0
+
 
 dev_dependencies:
   flutter_test:
@@ -46,6 +51,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/logo.jpg
+    - assets/images/placeholder.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
